@@ -1,0 +1,4 @@
+/build
+/dist
+/vppapigen_enumflag/__pycache__
+*.egg-info
